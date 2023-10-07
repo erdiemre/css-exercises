@@ -1,0 +1,14 @@
+.ortak {
+    font-size: 28px;
+    font-family: Helvetica, 'Times New Roman', sans-serif
+}
+
+.ortak.first {
+    color:white;
+
+    background-color: black
+}
+
+.ortak.second {
+    background-color: yellow;
+}
